@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨¡İ 8Òü’Ã…2J$9b57aa25-f869-4940-8431-309b0592fc32
+l
+java:S2140")Use "java.util.Random.nextInt()" instead.(Âû±8Òü’Ã…2J$8e55fde5-16cc-4318-931a-1f04f6d1521b
+r	java:S106"+Replace this use of System.out by a logger.(›×Öºşÿÿÿÿ8Òü’Ã…2J$39da41c3-8bb9-4aba-9a1f-076eec53daa5
+“	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(©Ğ‘şÿÿÿÿ8ËÙÃ…2J$62818fb9-c11a-4cc8-9697-ab7d75ca1ec7
+“	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(òï±êÿÿÿÿÿ8€ĞœÃ…2J$2080a074-8149-4a75-b99f-7c277bb6cb90
+“	java:S128	"LEnd this switch case with an unconditional break, return or throw statement.(˜Çúÿÿÿÿ8€ĞœÃ…2J$05465354-fe48-4fb3-93f7-228384bbee37
+c	java:S131""Add a default case to this switch.(µ¡ÖN8«‰”Ã…2J$7de5eb7b-bd2c-496f-989b-8a49df67da28
+l	java:S106
+"+Replace this use of System.out by a logger.(„ÜŠ8ô×™Ã…2J$76447e2e-b102-49ca-bf2b-bc20e9a93880
+m	java:S106"+Replace this use of System.out by a logger.(Œï¡…8¥¢›Ã…2J$1610deb6-cd4d-4aff-9dfd-cf90ec34b666
+r	java:S106"+Replace this use of System.out by a logger.(¡Íª•ûÿÿÿÿ8€ĞœÃ…2J$8364cde9-a924-45d6-baab-1b2613562110
+r	java:S106"+Replace this use of System.out by a logger.(›Ï…øÿÿÿÿ8ËÙÃ…2J$1dae3dce-9dd8-4de4-9dd4-dd454142cb2d
