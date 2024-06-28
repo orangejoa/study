@@ -1,4 +1,4 @@
-package ConditionExpression;
+package book.thisIsCoding;
 
 public class SwitchNoBreakCaseExample {
     public static void main(String[] args) {
